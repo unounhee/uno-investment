@@ -24,3 +24,9 @@
     "status": "published"
   }
 ]
+{
+  "title": "TEST ARTICLE",
+  "description": "This is a test.",
+  "url": "#",
+  "status": "published"
+}
