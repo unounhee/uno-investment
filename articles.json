@@ -5,28 +5,32 @@
     "url": "usdt-vs-usdc-vs-usde.html",
     "status": "published"
   },
+
   {
     "title": "USDe Yield Strategy",
     "description": "Learn how Ethena generates yield, how USDe and sUSDe work, and how compounding can affect long-term investment outcomes.",
     "url": "usde-yield-strategy.html",
     "status": "published"
   },
+
   {
     "title": "How CPI Affects Bitcoin and Stocks",
     "description": "Learn how inflation data influences Federal Reserve policy, interest rates, stock prices, Bitcoin, and broader risk assets.",
     "url": "cpi-impact-on-bitcoin-and-stocks.html",
     "status": "published"
   },
+
   {
     "title": "What Is the Federal Funds Rate?",
     "description": "Learn how the Federal Reserve controls interest rates and how rate hikes and rate cuts affect stocks, bonds, and Bitcoin.",
     "url": "what-is-the-federal-funds-rate.html",
     "status": "published"
+  },
+
+  {
+    "title": "TEST ARTICLE",
+    "description": "This is a test article used to verify automatic article loading.",
+    "url": "#",
+    "status": "published"
   }
 ]
-{
-  "title": "TEST ARTICLE",
-  "description": "This is a test.",
-  "url": "#",
-  "status": "published"
-}
